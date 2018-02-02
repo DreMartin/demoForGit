@@ -1,0 +1,1 @@
+class = ['dre', 'matt', 'ian']
