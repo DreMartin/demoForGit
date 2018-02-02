@@ -1,1 +1,1 @@
-class = ['dre', 'matt', 'ian']
+console.log('hello world');
